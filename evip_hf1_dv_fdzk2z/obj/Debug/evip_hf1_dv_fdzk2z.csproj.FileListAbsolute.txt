@@ -1,0 +1,7 @@
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\bin\Debug\evip_hf1_dv_fdzk2z.exe.config
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\bin\Debug\evip_hf1_dv_fdzk2z.exe
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\bin\Debug\evip_hf1_dv_fdzk2z.pdb
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\obj\Debug\evip_hf1_dv_fdzk2z.csprojAssemblyReference.cache
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\obj\Debug\evip_hf1_dv_fdzk2z.csproj.CoreCompileInputs.cache
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\obj\Debug\evip_hf1_dv_fdzk2z.exe
+Q:\Vince\#BME\evip\hf1\evip_hf1_dv_fdzk2z\evip_hf1_dv_fdzk2z\obj\Debug\evip_hf1_dv_fdzk2z.pdb
