@@ -9,6 +9,7 @@ namespace evip_hf1_dv_fdzk2z
         private static List<Shop> productsList = new List<Shop>();
         private string product;
         private int price;
+        private int discount;
 
         public string getProduct() { return product; }
         public int getPrice() { return price; }
@@ -17,6 +18,13 @@ namespace evip_hf1_dv_fdzk2z
         {
             this.product = product;
             this.price = price;
+        }
+
+        public Shop(string product, int price, int discount)
+        {
+            this.product = product;
+            this.price = price;
+            this.discount = discount;
         }
 
         public static void RegisterProduct(string product, int price)
@@ -51,8 +59,11 @@ namespace evip_hf1_dv_fdzk2z
             return price;
         }
 
-        
 
 
+        public void RegisterCountDiscount(string product, int price, int discount)
+        {
+            productsList.Add(new Shop(product, price, discount));
+        }
     }
 }
