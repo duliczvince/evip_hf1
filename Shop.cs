@@ -50,15 +50,13 @@ namespace evip_hf1_dv_fdzk2z
             {
                 Console.WriteLine("Value: " + product.Key + " Count: " + product.Value);
                 var p = new Shop(product.Key, 0);
-                productsList.Find(p);
+                price += FindElement(p) * product.Value;
             }
             return price;
         }
 
-        private static int Find<Shop(this List<Shop> productsList, Shop p)
+        private static int FindElement(Shop p)
         {
-            this.productsList = productsList;
-
             for(int i = 0; i < productsList.Count; i++)
             {
                 if(productsList[i].product.Equals(p.product)) { return productsList[i].getPrice(); }
