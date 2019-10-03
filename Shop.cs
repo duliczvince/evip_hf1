@@ -10,8 +10,8 @@ namespace evip_hf1_dv_fdzk2z
         private static List<Shop> productsList = new List<Shop>();
         private string product;
         private int price;
-        private int discount;
-        private int discountVAlue;
+        private int discount ;
+        private int discountVAlue ;
 
         #region __1_FELADAT__
 
@@ -50,18 +50,9 @@ namespace evip_hf1_dv_fdzk2z
             {
                 Console.WriteLine("Value: " + product.Key + " Count: " + product.Value);
                 var p = new Shop(product.Key, 0);
-                price += FindElement(p) * product.Value;
+                price += FindElement(p, product.Value);
             }
             return price;
-        }
-
-        private static int FindElement(Shop p)
-        {
-            for(int i = 0; i < productsList.Count; i++)
-            {
-                if(productsList[i].product.Equals(p.product)) { return productsList[i].getPrice(); }
-            }
-            return 0;
         }
 
         private static List<string> ShopStringToChar(string products)
@@ -84,6 +75,19 @@ namespace evip_hf1_dv_fdzk2z
         public static void RegisterProductWithDiscount(string product, int price, int discountFrom, int discountValue)
         {
             productsList.Add(new Shop(product, price, discountFrom, discountValue));
+        }
+
+        private static int FindElement(Shop p, int countProduct)
+        {
+            foreach (Shop v in productsList)
+            {
+                if (v.product.Equals(p.product))
+                {
+                    if (countProduct > 3) { countProduct -= v.discountVAlue - v.discount; }
+                    return v.getPrice() * countProduct;
+                }
+            }
+            return 0;
         }
 
         #endregion

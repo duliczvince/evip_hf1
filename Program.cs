@@ -14,7 +14,7 @@ namespace evip_hf1_dv_fdzk2z
 
             Shop.RegisterProductWithDiscount("C", 3, 3, 4);
 
-            var price = Shop.GetPrice("ABCCCC"); //12
+            var price = Shop.GetPrice("ACCCC"); //
             Console.WriteLine(price);
 
             Console.ReadKey();
