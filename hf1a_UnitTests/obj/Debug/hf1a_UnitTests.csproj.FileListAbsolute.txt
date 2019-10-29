@@ -1,0 +1,16 @@
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\hf1a_UnitTests.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\hf1a_UnitTests.pdb
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\evip_hf1_dv_fdzk2z.exe
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\evip_hf1_dv_fdzk2z.pdb
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\evip_hf1_dv_fdzk2z.exe.config
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\obj\Debug\hf1a_UnitTests.csprojAssemblyReference.cache
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\obj\Debug\hf1a_UnitTests.csproj.CopyComplete
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\obj\Debug\hf1a_UnitTests.dll
+Q:\Vince\#BME\Third Sem\evip\evip_hf1-master\hf1a_UnitTests\obj\Debug\hf1a_UnitTests.pdb
